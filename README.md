@@ -5,4 +5,4 @@ In the recent past, e-commerce companies have emerged and flourished in the indu
 
 Now, OList is one such e-commerce company that has faced some losses recently and they want to manage their inventory very well so as to reduce any unnecessary costs that they might be bearing. In this case study, we aim to manage the inventory cost of this e-commerce company OList. We aim to identify top products that contribute to the revenue and also use market basket analysis to analyse the purchase behaviour of individual customers to estimate with relative certainty, what items are more likely to be purchased individually or in combination with some other products.
 
-So ultimately, we want to help OList to identify the product categories which they can get rid of without significantly impacting business. Before proceeding, download the dataset given below.
+So ultimately, we want to help OList to identify the product categories which they can get rid of without significantly impacting business.
